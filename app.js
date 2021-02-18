@@ -1,3 +1,10 @@
+window.addEventListener("DOMContentLoaded", () => {
+  homeSection.style.display = "flex";
+  aboutSection.style.display = "none";
+  projectsSection.style.display = "none";
+  contactSection.style.display = "none";
+});
+
 // gsap timelines
 var tl = gsap.timeline({ defaults: { delay: 1 } });
 var tl2 = gsap.timeline({
