@@ -665,3 +665,17 @@ footer {
     margin-top: 3em;
   }
 }
+
+@media screen and (max-width: 375px) and (max-height: 812px) {
+  .projects .__img {
+    margin-top: 3em;
+  }
+}
+
+@media not all and (min-resolution: 0.001dpcm) {
+  @supports (-webkit-appearance: none) and (stroke-color: transparent) {
+    .projects .__img {
+      margin-top: 3em;
+    }
+  }
+}
