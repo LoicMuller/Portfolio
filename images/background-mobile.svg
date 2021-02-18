@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="1250" viewBox="0 0 375 1250">
+  <defs>
+    <clipPath id="clip-mobile-bg">
+      <rect width="375" height="1250"/>
+    </clipPath>
+  </defs>
+  <g id="mobile-bg" clip-path="url(#clip-mobile-bg)">
+    <rect width="375" height="1250" fill="#3d3d43"/>
+    <path id="Tracé_1" data-name="Tracé 1" d="M231.111,0c5.722,221.218,31.275,361.206-10.361,509.624-16.873,60.146-34.685,119.161-51.836,179.252C121.387,855.4,131.42,1028.5,131.626,1250H-2.264V-.016S230.574-3.656,231.111,0Z" transform="translate(2.264)" fill="#292a2d"/>
+  </g>
+</svg>

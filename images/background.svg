@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-background">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="background" clip-path="url(#clip-background)">
+    <rect width="1920" height="1080" fill="#3d3d43"/>
+    <g id="Groupe_8" data-name="Groupe 8">
+      <path id="Tracé_1" data-name="Tracé 1" d="M1562.2,0C1681.856,446.572,425.639,650.41,428.074,1082.915H-2.264V0Z" transform="translate(2.264 -1.458)" fill="#292a2d"/>
+    </g>
+  </g>
+</svg>
