@@ -235,7 +235,8 @@ body {
   grid-template-rows: 1fr 1fr;
   gap: 100px 0;
 
-  overflow: auto;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 
 .project__one,
