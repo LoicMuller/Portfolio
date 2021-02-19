@@ -674,7 +674,7 @@ footer {
 
 @media not all and (min-resolution: 0.001dpcm) {
   @supports (-webkit-appearance: none) and (stroke-color: transparent) {
-    .projects .__img {
+    .safari__only {
       margin-top: 6em;
     }
   }
